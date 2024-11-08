@@ -1,1 +1,2 @@
-php:8.1-apache
+p3terx/aria2-pro
+cloudreve/cloudreve:latest
