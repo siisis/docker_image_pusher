@@ -1,1 +1,1 @@
-wushuo894/ani-rss
+linuxserver/qbittorrent
