@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+python:3.9-slim
